@@ -1,6 +1,6 @@
 ##### Create transition matrix ----------------------------------------------------------------------------
 
-# function that creates a transition matrix given number and names of stages
+# Function that creates a transition matrix given number and names of stages
 A.create <- function(values, stage.names = NULL){
   
   # Let values be a vector of numerics representing the values of the transition matrix 
@@ -24,7 +24,7 @@ A.create <- function(values, stage.names = NULL){
 
 ##### Initial population size -----------------------------------------------------------------------------
 
-# function that creates a column vector of initial counts
+# Function that creates a column vector of initial counts
 A0.create <- function(values, stage.names = NULL){
   
   # Let values be a vector of numerics representing the values of the transition matrix 
