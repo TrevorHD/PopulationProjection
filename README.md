@@ -4,8 +4,8 @@ This code projects population growth given a transition matrix **A** and initial
 
 # Files
 
-**PopProjection** *(.R)* - R code used to build the genetic drift simulator and create the visualisations below.
+**PopProjection** *(.R)* - R code used to specify initial conditions, run the matrix models, print output,a nd generate visualisations.
 
-**Abundance** *(.jpeg)* - Example output showing abundance for each age/stage/class as a function of time.
+**ExAbundance** *(.jpeg)* - Example output showing abundance for each age/stage/class as a function of time.
 
-**Proportions** *(.jpeg)* - Example output showing proportional abundance for each age/stage/class as a function of time.
+**ExProportions** *(.jpeg)* - Example output showing proportional abundance for each age/stage/class as a function of time.
