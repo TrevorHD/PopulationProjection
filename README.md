@@ -1,6 +1,8 @@
 # Overview
 
-This code projects population growth given a transition matrix **A** and initial abundances of each age/stage/class. Graphical outputs include graphs of abundance and proportional abundance. Numeric outputs include abundances and proportional abundances at the final time step, the stable age distribution (right eigenvector of **A**), and the stable growth rate (dominant eigenvalue of **A**). Raw outputs of abundance and proportional abundance at each time step can be called too.
+This code projects population growth given a transition matrix **A** and initial abundances of each age/stage/class. Graphical outputs include graphs of abundance and proportional abundance. Numeric outputs include abundances and proportional abundances at the final time step, the stable age distribution (right eigenvector of **A**), and the stable growth rate (dominant eigenvalue of **A**). Raw outputs of abundance and proportional abundance at each time step can be called as well.
+
+<br/>
 
 # Files
 
