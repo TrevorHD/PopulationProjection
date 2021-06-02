@@ -6,7 +6,7 @@ This code projects population growth given a transition matrix **A** and initial
 
 # Files
 
-**PopProjection** *(.R)* - R code used to specify initial conditions, run the matrix models, print output,a nd generate visualisations.
+**PopProjection** *(.R)* - R code used to specify initial conditions, run the matrix models, print output, and generate visualisations.
 
 **ExAbundance** *(.jpeg)* - Example output showing abundance for each age/stage/class as a function of time.
 
